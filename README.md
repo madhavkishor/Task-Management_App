@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task manager Web application
 
 A task manager app inspired by JIRA allows you to manage your daily tasks.
@@ -65,3 +66,7 @@ the app is fully responsive:
 
           
 
+=======
+# Task-Management_App
+Task management app.
+>>>>>>> 950bfe2a162e4f3014ce7e2edfc252ad0c3cb704
